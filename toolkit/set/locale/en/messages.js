@@ -60,15 +60,15 @@ infos.premium = (trial) => `
 
 *🔖Price list*:
 #︎ 1Day
-- Rp.2,000
+- Rp.1,000
 #︎ 3Day
-- Rp.5,000
+- Rp.3,000
 #︎ 7Day
-- Rp.10,000
+- Rp.5,000
 #︎ 15Day
-- Rp.20,000
+- Rp.10,000
 #︎ 30Day
-- Rp.35,000
+- Rp.15,000
 
 *Haven’t claimed the Free Trial yet🤷🏻‍♀️?*
 ${Data.infos.others.readMore}
